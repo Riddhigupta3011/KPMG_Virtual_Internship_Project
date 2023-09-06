@@ -57,7 +57,6 @@ If you are participating in this project, follow these steps:
 Let's work together to ensure the data is ready for Phase Two of the project and support Sprocket Central Pty Ltd in optimizing their marketing strategy.
 
 Good luck, and feel free to reach out if you have any questions or need assistance!
-
----
+----
 
 
