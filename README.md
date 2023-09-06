@@ -1,5 +1,5 @@
 # KPMG Virtual Internship Project
-
+Total 3 Tasks
 ## Task 1: Data Quality Assessment
 
 Welcome to the KPMG Virtual Internship Project! In this project, we will be addressing data quality issues and proposing strategies to mitigate them. Task 1 focuses on assessing the quality of the datasets provided by our client, Sprocket Central Pty Ltd, and understanding how these issues might impact our future data analysis.
