@@ -54,6 +54,8 @@ If you are participating in this project, follow these steps:
 4. Draft an email to the client (as specified in the task description) highlighting data quality issues and proposed mitigation strategies.
 5. Commit your changes to this repository and share your work with your team.
 
+## Task 2: Comming Soon
+
 ----
 
 
