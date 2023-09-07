@@ -54,9 +54,6 @@ If you are participating in this project, follow these steps:
 4. Draft an email to the client (as specified in the task description) highlighting data quality issues and proposed mitigation strategies.
 5. Commit your changes to this repository and share your work with your team.
 
-Let's work together to ensure the data is ready for Phase Two of the project and support Sprocket Central Pty Ltd in optimizing their marketing strategy.
-
-Good luck, and feel free to reach out if you have any questions or need assistance!
 ----
 
 
